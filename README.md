@@ -16,8 +16,8 @@ matrix at host side for result checks followed by invoking kernel at host side. 
 Step 5 : Execute the program and run the terminal . Check the performance using nvprof.
 ##  PROGRAM:
 ```
-Developed by :Balureddy Velayudham Gowtham
-Reg no : 212222040024
+Developed by : GEORGE PAUL TONY .C
+Reg no : 212222040043
 ```
 ```
 #include "./common.h"
